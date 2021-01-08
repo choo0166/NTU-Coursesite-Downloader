@@ -1,1 +1,1 @@
-# NTU-Coursesite-Downloader
+# NTU-Coursesite-Downloader [Deprecated]
